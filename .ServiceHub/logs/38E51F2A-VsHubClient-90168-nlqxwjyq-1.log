@@ -1,0 +1,10 @@
+﻿10/01/2024 12:21:47 India Standard Time : Information : Local timezone is (UTC+05:30) India Standard Time (Kolkata)
+10/01/2024 12:21:47 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":90168}]}
+10/01/2024 12:21:47 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://90172BB97D","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.10.18-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["e2966b87ba"],"PipeName":"e2966b87ba"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+10/01/2024 12:21:47 India Standard Time : Information : Connected to Hub Controller's client watch 'net.pipe://90172BB97D
+10/01/2024 12:21:47 India Standard Time : Information : VsHubClient-hubController JSON RPC has been disposed
+10/01/2024 12:21:47 India Standard Time : Information : VsHubClient-hubController read: end of stream

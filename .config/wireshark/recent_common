@@ -1,0 +1,124 @@
+# Common recent settings file for Wireshark 4.4.8.
+#
+# This file is regenerated each time Wireshark is quit
+# and when changing configuration profile.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /Users/shashibhushankumar/network.pcapng
+
+######## Recent capture filters (latest first), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: eth.addr == 00:00:5e:00:53:00
+recent.display_filter: cmd
+recent.display_filter: dns
+recent.display_filter: http
+recent.display_filter: ip
+recent.display_filter: tcp
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 0
+gui.geometry_main_y: 25
+gui.geometry_main_width: 960
+gui.geometry_main_height: 748
+
+# Main window maximized.
+# true or false (case-insensitive).
+gui.geometry_main_maximized: false
+
+# Main window geometry state.
+# Hex byte string.
+gui.geometry_main: 01d9d0cb000300000000000000000019000003bf000003200000000000000035000003bf00000320000000000000000005a00000000000000035000003bf00000320
+
+# Leftalign Action Buttons.
+# true or false (case-insensitive).
+gui.geometry_leftalign_actions: false
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# Number of packets or events to check for automatic profile switching.
+# Decimal number. Zero disables switching.
+#gui.profile_switch_check_count: 1000
+
+# Warn if running with elevated permissions (e.g. as root).
+# true or false (case-insensitive).
+privs.warn_if_elevated: true
+
+# Warn if Wireshark is unable to capture.
+# true or false (case-insensitive).
+sys.warn_if_no_capture: false
+
+# Find packet search in.
+# One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES
+gui.search_in: PACKET_LIST
+
+# Find packet character set.
+# One of: NARROW_AND_WIDE, NARROW, WIDE
+gui.search_char_set: NARROW_AND_WIDE
+
+# Find packet case sensitive search.
+# true or false (case-insensitive).
+gui.search_case_sensitive: false
+
+# Find packet search reverse direction.
+# true or false (case-insensitive).
+gui.search_reverse_dir: false
+
+# Find packet search multiple occurrences.
+# true or false (case-insensitive).
+gui.search_multiple_occurs: false
+
+# Find packet search type.
+# One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
+gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of FilterDialog window.
+# Decimal integers.
+gui.geom.FilterDialog.x: 230
+gui.geom.FilterDialog.y: 110
+gui.geom.FilterDialog.width: 960
+gui.geom.FilterDialog.height: 600
+# true or false (case-insensitive).
+gui.geom.FilterDialog.maximized: false
+# Qt Geometry State (hex byte string).
+gui.geom.FilterDialog.qt_geometry: 01d9d0cb00030000000000e60000006e000004a5000002e1000000e60000008a000004a5000002e1000000000000000005a0000000e60000008a000004a5000002e1
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 0
+gui.geom.PacketDialog.y: 0
+gui.geom.PacketDialog.width: 1440
+gui.geom.PacketDialog.height: 900
+# true or false (case-insensitive).
+gui.geom.PacketDialog.maximized: true
+# Qt Geometry State (hex byte string).
+gui.geom.PacketDialog.qt_geometry: 01d9d0cb0003000000000000000000000000059f00000383000000860000004e000005050000031d000000000004000005a000000000000000000000059f00000383
+
+# Geometry and maximized state of CaptureFilePropertiesDialog window.
+# Decimal integers.
+gui.geom.CaptureFilePropertiesDialog.x: 0
+gui.geom.CaptureFilePropertiesDialog.y: 0
+gui.geom.CaptureFilePropertiesDialog.width: 1440
+gui.geom.CaptureFilePropertiesDialog.height: 900
+# true or false (case-insensitive).
+gui.geom.CaptureFilePropertiesDialog.maximized: true
+# Qt Geometry State (hex byte string).
+gui.geom.CaptureFilePropertiesDialog.qt_geometry: 01d9d0cb0003000000000000000000000000059f00000383000000e60000001c000004a500000381000000000004000005a000000000000000000000059f00000383
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"

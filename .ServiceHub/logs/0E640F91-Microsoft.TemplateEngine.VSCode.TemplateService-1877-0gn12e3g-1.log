@@ -1,0 +1,15 @@
+﻿06/18/2024 19:09:51 India Standard Time : Information : Local timezone is (UTC+05:30) India Standard Time (Kolkata)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "initialize" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.InitializeAsync(String, String, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "getProjectTemplates" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.GetProjectTemplatesAsync(CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "getProjectParameters" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.GetProjectParametersAsync(String, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "createProject" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.CreateProjectAsync(String, String, String, Dictionary`2, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "initialize" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.InitializeAsync(String, String, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "getProjectTemplates" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.GetProjectTemplatesAsync(CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "getProjectParameters" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.GetProjectParametersAsync(String, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time : Information : Added local RPC method "createProject" -> Microsoft.TemplateEngine.VSCode.Implementation.TemplateService.CreateProjectAsync(String, String, String, Dictionary`2, CancellationToken) (Microsoft.TemplateEngine.VSCode.Implementation.TemplateService)
+06/18/2024 19:09:52 India Standard Time: Information : 3 :Listening started.
+06/18/2024 19:10:09 India Standard Time : Information : Microsoft.TemplateEngine.VSCode.TemplateService read: end of stream
+06/18/2024 19:10:09 India Standard Time: Information : 13 :Connection closing (RemotePartyTerminated: Reached end of stream.). 
+06/18/2024 19:10:09 India Standard Time : Information : Waiting for 'Microsoft.TemplateEngine.VSCode.TemplateService' instance to complete its completionTask.
+06/18/2024 19:10:09 India Standard Time : Information : Disposed 'Microsoft.TemplateEngine.VSCode.TemplateService' via 'completionTask' method.
+06/18/2024 19:10:09 India Standard Time : Information : Finishing shutting down service: Microsoft.TemplateEngine.VSCode.TemplateService.

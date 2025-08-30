@@ -1,0 +1,472 @@
+﻿11/12/2024 18:20:09 India Standard Time : Information : Local timezone is (UTC+05:30) India Standard Time (Kolkata)
+11/12/2024 18:20:09 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : Connected to Hub Controller's client watch 'net.pipe://1796057746
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 821
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.CpsProjectIconSourceService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectIconSourceServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 822
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 820
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 852
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectInitializationStatusService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectInitializationStatusServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 822
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.ProjectTreeProvider"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.ProjectTreeProviderFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 841
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 802
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.AspireSessionSynchronizeService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 810
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.GenericHotReloadAgentManagerService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 784
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.HotReloadClientService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadClientService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 810
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.HotReloadSessionNotificationService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 827
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService2"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueCsDevKitEngineService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 827
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService2"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedEditAndContinueRemoteDebuggerService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 810
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadAgentManagerService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 786
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.ManagedHotReloadService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.ManagedHotReloadService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 774
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.SourceLinkService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.SourceLinkService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 811
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.SymbolLocatorService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSDebugCore/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-debugger-devkit.darwin-arm64/Microsoft.VisualStudio.Debugger.DevKit.dll","fullClassName":"Microsoft.VisualStudio.Debugger.BrokeredServices.SymbolLocator.SymbolLocatorService+Factory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 878
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.ProjectSystemProvider.Service.ProjectSystemProviderServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 829
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 669
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.AspireServer"},{"host":"dotnet.aspireServer","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.AspireServer.dll","fullClassName":"Microsoft.WebTools.AspireServer.ServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 777
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.Debugger.AspireService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/WebTools/node_modules/@microsoft/vscode.webtools/Services/Microsoft.WebTools.Aspire.VSCode.Services.dll","fullClassName":"Microsoft.WebTools.Aspire.VSCode.Services.ServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 892
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.DebugTargetFrameworkService"},{"host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.projectsystem.managed/Services/Microsoft.ProjectSystem.Managed.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Services.DebugTargetFrameworkServiceFactory"},"friendServices":["Microsoft.VisualStudio.ProjectSystem.CompositionService"]}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 710
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.TemplateEngine.VSCode.TemplateService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.templateengine","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/dotnet-project-system-vscode/node_modules/@microsoft/vscode.templateengine/Microsoft.TemplateEngine.VSCode.dll","fullClassName":"Microsoft.TemplateEngine.VSCode.TemplateServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 767
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.CodeCoverage.VSCode.CollectionService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 759
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.CodeCoverage.VSCode.ReportService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.ReportServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 809
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"Microsoft.VisualStudio.ProjectQueryTestService"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-arm64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.ProjectQueryTestServiceFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 109
+
+{"jsonrpc":"2.0","id":2,"method":"UpdateClientInfoAsync","params":[{"clientName":"VsHubClient","pid":17953}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 455
+
+{"jsonrpc":"2.0","id":2,"result":{"ClientWatchServerName":"net.pipe://1796057746","ControllerConfig":{"Executable":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/servicehub-controller-net60.darwin-arm64/Microsoft.ServiceHub.Controller","Args":["2e9d262ac6"],"PipeName":"2e9d262ac6"},"HostsConfig":{"RootDir":".","AppConfigFallback":""}}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 775
+
+{"jsonrpc":"2.0","id":3,"method":"RegisterServiceAsync","params":[{"Name":"helloServiceHubDotNetHost"},{"host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-green-server/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-server-samples-sayhello.darwin-arm64/Microsoft.VisualStudio.Samples.SayHello.dll","fullClassName":"Microsoft.VisualStudio.Samples.SayHello.HelloWorldFactory"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 38
+
+{"jsonrpc":"2.0","id":3,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 344
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/3062edfed8"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 354
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"Name":"Microsoft.CodeCoverage.VSCode.ReportService","Version":"1.0"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/c24342dc53"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 359
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/f1d311d6f0"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 344
+
+{"jsonrpc":"2.0","id":6,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.LaunchConfigurationService"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/03a9003fd4"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 384
+
+{"jsonrpc":"2.0","id":7,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","Version":"0.3"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/fffdcb34fa"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 175
+
+{"jsonrpc":"2.0","id":4,"result":{"RequestId":"e4a84261-d0b2-4d33-beb5-bdc8fc909445","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/73b167b9a5","IsEmpty":false}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 175
+
+{"jsonrpc":"2.0","id":5,"result":{"RequestId":"19fc04d3-fb68-4e36-815b-1bc0eac6a22d","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/31c630dc53","IsEmpty":false}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 358
+
+{"jsonrpc":"2.0","id":8,"method":"requestServiceChannel","params":[{"Name":"Microsoft.CodeCoverage.VSCode.CollectionService","Version":"1.0"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/2e6412c359"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/f1d311d6f0'.
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/c24342dc53'.
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 175
+
+{"jsonrpc":"2.0","id":6,"result":{"RequestId":"ac31dc05-72a6-48e1-9fac-7713c5e22a3a","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/a678c17641","IsEmpty":false}}Content-Length: 175
+
+{"jsonrpc":"2.0","id":7,"result":{"RequestId":"5d26be71-e7e3-4532-aa24-1290b40ba06e","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7d5a03c946","IsEmpty":false}}Content-Length: 175
+
+{"jsonrpc":"2.0","id":3,"result":{"RequestId":"fd65a321-30fa-4c54-827e-d40d71cc35dc","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/38d7717a2c","IsEmpty":false}}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 175
+
+{"jsonrpc":"2.0","id":8,"result":{"RequestId":"c17b48ec-1327-4e77-a3fe-d81b07b52279","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/b78a98f560","IsEmpty":false}}
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/2e6412c359'.
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/03a9003fd4'.
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/fffdcb34fa'.
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/3062edfed8'.
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.ReportService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"fe5c5779-0ecc-4d0c-b133-c94760257b26","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/7f8217bb518a43039c8f1fcd7880a709"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.CodeCoverage.VSCode.CollectionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"4dbde4e7-8cd2-487c-8bf6-aaa063f42c4f","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/616df0b26eed4bf29a49f7806af0a4a4"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"f9304b33-1f1c-4c54-a99d-2483c776bbce","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/eb112d1f3d6e46f0a36155db7d6a6019"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"768f4f91-9aee-41b6-a7fa-1f24071b073d","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/1394fe714dd74999aaecffb3b4c34aa1"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"43477d40-c675-41ba-b30f-2a2dc8c94cf2","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/fbbf09129c354b5e8bbcfccc76b66e98"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"8417a381-52cc-4704-a5fe-2e6060a9bea9","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/94a34eeeaed54bea95f0c2b790d9ceed"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer read: Content-Length: 203
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","version":"0.1"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController write: Content-Length: 366
+
+{"jsonrpc":"2.0","id":9,"method":"requestServiceChannel","params":[{"Name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","Version":"0.1"},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/ca37cc5194"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : VsHubClient-hubController read: Content-Length: 175
+
+{"jsonrpc":"2.0","id":9,"result":{"RequestId":"c8d125c5-6569-4258-b48f-16ba0ff90a13","PipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7b83fb7788","IsEmpty":false}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.LaunchConfigurationService-RemoteServiceBrokerServer write: Content-Length: 159
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"c8d125c5-6569-4258-b48f-16ba0ff90a13","pipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7b83fb7788"}}
+11/12/2024 18:20:10 India Standard Time : Information : Disposing ServiceBroker server '/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/ca37cc5194'.
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 193
+
+{"jsonrpc":"2.0","id":2,"method":"handshake","params":[{"supportedConnections":"IpcPipe","localServiceHost":{"operatingSystem":2,"processArchitecture":3,"runtime":2,"runtimeVersion":"8.0.6"}}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 38
+
+{"jsonrpc":"2.0","id":2,"result":null}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 183
+
+{"jsonrpc":"2.0","id":3,"method":"requestServiceChannel","params":[{"name":"Microsoft.ServiceHub.Framework.AuthorizationService"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":3,"result":{"requestId":"6c8738bc-6a4f-460b-8ec0-527299389b9b","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/fa75c3a51ed14c09ab16fcac219b482f"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 194
+
+{"jsonrpc":"2.0","id":4,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.ComponentExportsService","version":"0.1"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer read: Content-Length: 197
+
+{"jsonrpc":"2.0","id":5,"method":"requestServiceChannel","params":[{"name":"Microsoft.VisualStudio.NoDelay.EnvironmentService","version":"0.1"},{"clientCulture":"en-GB","clientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":4,"result":{"requestId":"4f27ae04-5be9-4bbf-801b-86f189b3e0c3","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/ba7e0b087c4c4442a21ee805faf36ea6"}}
+11/12/2024 18:20:10 India Standard Time : Information : Microsoft.VisualStudio.ProjectSystem.CompositionService-RemoteServiceBrokerServer write: Content-Length: 181
+
+{"jsonrpc":"2.0","id":5,"result":{"requestId":"b8aeb596-78ca-4f7d-b5dd-f12080e7c35c","pipeName":"/var/folders/r_/pwvvrw_j7zxg1pwwf6zm6z7w0000gn/T/b38a766dff1c4d11bcb16b207dcd5b98"}}
+11/12/2024 18:20:14 India Standard Time : Information : VsHubClient-hubController JSON RPC has been disposed
+11/12/2024 18:20:14 India Standard Time : Information : VsHubClient-hubController read: end of stream
+11/12/2024 18:20:14 India Standard Time : Information : Microsoft.VisualStudio.TestWindow.VSCode.Service-RemoteServiceBrokerServer read: end of stream

@@ -1,0 +1,312 @@
+﻿11/12/2024 18:20:10 India Standard Time : Information : Local timezone is (UTC+05:30) India Standard Time (Kolkata)
+11/12/2024 18:20:10 India Standard Time : Information : Service Hub .NET service module host started. Host id: dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://1796018AB7. PID: 17973
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 111
+
+{"jsonrpc":"2.0","id":2,"method":"initializeHost","params":[{"HostsRootDirectory":".","AppConfigFallback":""}]}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 93
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1027
+
+{"jsonrpc":"2.0","id":3,"method":"startService","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/03a9003fd4"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1092
+
+{"jsonrpc":"2.0","id":5,"method":"startService","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/fffdcb34fa","__servicehub__RequestedServiceVersion":"0.3"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}Content-Length: 1027
+
+{"jsonrpc":"2.0","id":4,"method":"startService","params":[{"name":"Microsoft.VisualStudio.LaunchConfigurationService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/3062edfed8"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/a678c17641, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7d5a03c946, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.LaunchConfigurationService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.VisualStudio.LaunchConfigurationService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.VisualStudio.LaunchConfigurationService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/38d7717a2c, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 95
+
+{"jsonrpc":"2.0","id":3,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/a678c17641"}Content-Length: 95
+
+{"jsonrpc":"2.0","id":5,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7d5a03c946"}Content-Length: 95
+
+{"jsonrpc":"2.0","id":4,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/38d7717a2c"}
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService'
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService'
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 119
+
+{"jsonrpc":"2.0","method":"hostServicesStarted","params":["dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.LaunchConfigurationService.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : Found IServiceHubServiceFactory in cache. Creating instance from the factory.
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.3.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=.
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1071
+
+{"jsonrpc":"2.0","id":6,"method":"startService","params":[{"name":"Microsoft.VisualStudio.ProjectSystem.CompositionService","host":"dotnet.projectSystem","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll","fullClassName":"Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/ca37cc5194","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64/Microsoft.VisualStudio.ProjectSystem.Server.Implementation.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/CPS/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-projectsystem-server.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Class: Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.VisualStudio.ProjectSystem.CompositionService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7b83fb7788, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 95
+
+{"jsonrpc":"2.0","id":6,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/7b83fb7788"}
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService'
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.ProjectSystem.CompositionService.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory instance of CLR service module 'Microsoft.VisualStudio.ProjectSystem.CompositionService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.BuildHostProcessHost.InitializeAsync(IComponentExportsService componentExportsService, ISourceBlock`1 environmentStateBlock, IServiceBroker serviceBroker)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.<>c__DisplayClass43_0.<<InitializeCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.InitializeCoreAsync()
+   at Microsoft.VisualStudio.Threading.AwaitExtensions.ExecuteContinuationSynchronouslyAwaiter.GetResult()
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.<.ctor>b__7_0()
+   at Microsoft.VisualStudio.Threading.AwaitExtensions.ExecuteContinuationSynchronouslyAwaiter`1.GetResult()
+   at Microsoft.VisualStudio.Threading.AsyncLazy`1.<>c__DisplayClass20_0.<<GetValueAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.InitializeContainerAsync(IServiceProvider hostProvidedServices, IServiceBroker serviceBroker, IProjectSystemDependencyLoader assemblyDependencyLoaderContext, ISdkResolver sdkResolver, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+11/12/2024 18:20:10 India Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory instance of CLR service module 'Microsoft.VisualStudio.ProjectSystem.Query.Remoting.QueryExecutionService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+11/12/2024 18:20:10 India Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory instance of CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+11/12/2024 18:20:10 India Standard Time : Error : Error creating Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory instance of CLR service module 'Microsoft.VisualStudio.LaunchConfigurationService': StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 117
+
+{"jsonrpc":"2.0","method":"hostServicesEnded","params":["dotnet.projectSystem$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:10 India Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.BuildHostProcessHost.InitializeAsync(IComponentExportsService componentExportsService, ISourceBlock`1 environmentStateBlock, IServiceBroker serviceBroker)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.<>c__DisplayClass43_0.<<InitializeCoreAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.InitializeCoreAsync()
+   at Microsoft.VisualStudio.Threading.AwaitExtensions.ExecuteContinuationSynchronouslyAwaiter.GetResult()
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.<.ctor>b__7_0()
+   at Microsoft.VisualStudio.Threading.AwaitExtensions.ExecuteContinuationSynchronouslyAwaiter`1.GetResult()
+   at Microsoft.VisualStudio.Threading.AsyncLazy`1.<>c__DisplayClass20_0.<<GetValueAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.InitializeContainerAsync(IServiceProvider hostProvidedServices, IServiceBroker serviceBroker, IProjectSystemDependencyLoader assemblyDependencyLoaderContext, ISdkResolver sdkResolver, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.CompositionServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:10 India Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:10 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.ProjectSystem.Server.QueryExecutionServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:10 India Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+11/12/2024 18:20:10 India Standard Time : Error : StreamJsonRpc.ConnectionLostException: The JSON-RPC connection with the remote party was lost before the request could complete. HResult='-2146233088' 
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync(JsonRpcRequest request, Type expectedResultType, CancellationToken cancellationToken)
+   at StreamJsonRpc.JsonRpc.InvokeCoreAsync[TResult](RequestId id, String targetName, IReadOnlyList`1 arguments, IReadOnlyList`1 positionalArgumentDeclaredTypes, IReadOnlyDictionary`2 namedArgumentDeclaredTypes, CancellationToken cancellationToken, Boolean isParameterObject)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerCoreAsync(IServiceBroker serviceBroker, TaskCompletionSource`1 toComplete)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.Threading.ThreadingTools.WithCancellationSlow[T](Task`1 task, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.ProcessServiceContainer.GetContainerAsync(IServiceBroker serviceBroker, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.VisualStudio.ProjectSystem.Server.LaunchConfigurationServiceFactory.CreateAsync(IServiceProvider hostProvidedServices, ServiceMoniker serviceMoniker, ServiceActivationOptions serviceActivationOptions, IServiceBroker serviceBroker, AuthorizationServiceClient authorizationServiceClient, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.Utilities.InvokeMethodIfObjectImplementsInterfaceAsync(Object obj, Type implementedInterface, String methodName, Object[] parameters, Boolean throwOnError)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.InvokeServiceHubServiceFactory(AssemblyName serviceHubFramework, Object serviceFactory, Object[] args, String serviceHubServiceFactoryTypeName, String methodName)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass74_0.<<CreateServiceModuleObjectWithFactoryAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Framework.ServiceManagerReflectionHelpers.SetupRpcConnectionAsync(Func`2 getRpcObject, Stream stream, ServiceRpcDescriptor serviceDescriptor, ServiceActivationOptions options, TraceSource traceSource, Action`1 completionTask)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.ExecuteServiceManagerReflectionHelperMethodAsync(AssemblyName serviceHubFramework, String methodName, Object[] parameters)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateServiceModuleObjectWithFactoryAsync(ServiceModuleInfo smi, ServiceFactoryDetails serviceFactoryDetails, String serializedServiceActivationOptions, Stream stream, TraceSource serviceModuleTracer, AssemblyName serviceHubFrameworkReference, CancellationToken cancellationToken)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.CreateAndConfigureServiceAsync(ServiceModuleInfo smi, Type serviceModuleType, Stream stream, String serializedServiceActivationOptions, CancellationTokenSource cts)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+   at Microsoft.ServiceHub.HostStub.ServiceManager.<>c__DisplayClass65_0.<<StartServiceAsync>b__0>d.MoveNext()
+--- End of stack trace from previous location ---
+   at Microsoft.ServiceHub.Utility.Server.ClientConnected(WrappedStream stream)
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr read: Content-Length: 46
+
+{"jsonrpc":"2.0","method":"exit","params":[3]}
+11/12/2024 18:20:14 India Standard Time : Information : Exit command received with reason 'ForcedControllerShutdown'. Exiting CLR host
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr JSON RPC has been disposed
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr read: end of stream

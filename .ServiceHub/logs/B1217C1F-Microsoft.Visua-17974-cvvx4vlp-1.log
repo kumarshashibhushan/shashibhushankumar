@@ -1,0 +1,77 @@
+﻿11/12/2024 18:20:10 India Standard Time : Information : Local timezone is (UTC+05:30) India Standard Time (Kolkata)
+11/12/2024 18:20:10 India Standard Time : Information : Service Hub .NET service module host started. Host id: dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE. Controller pipe: net.pipe://1796018AB7. PID: 17974
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 111
+
+{"jsonrpc":"2.0","id":2,"method":"initializeHost","params":[{"HostsRootDirectory":".","AppConfigFallback":""}]}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 79
+
+{"jsonrpc":"2.0","id":2,"result":"dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1010
+
+{"jsonrpc":"2.0","id":3,"method":"startService","params":[{"name":"Microsoft.CodeCoverage.VSCode.ReportService","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.ReportServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/c24342dc53","__servicehub__RequestedServiceVersion":"1.0"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1080
+
+{"jsonrpc":"2.0","id":4,"method":"startService","params":[{"name":"Microsoft.VisualStudio.TestWindow.VSCode.Service","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll","fullClassName":"Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/f1d311d6f0","__servicehub__RequestedServiceVersion":"0.1"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.CodeCoverage.VSCode.ReportService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.CodeCoverage.VSCode.ReportService'. Class: Microsoft.VisualStudio.CoverageServices.ReportServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.CodeCoverage.VSCode.ReportService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/73b167b9a5, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 95
+
+{"jsonrpc":"2.0","id":3,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/73b167b9a5"}
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64/Microsoft.VisualStudio.TestWindow.VSCode.Service.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/VSUnitTesting/platforms/darwin-arm64/node_modules/@microsoft/visualstudio-testwindow-vscode-service.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Class: Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.VisualStudio.TestWindow.VSCode.Service'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/31c630dc53, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 95
+
+{"jsonrpc":"2.0","id":4,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/31c630dc53"}
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.VisualStudio.TestWindow.VSCode.Service'
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.CodeCoverage.VSCode.ReportService'
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.CodeCoverage.VSCode.ReportService.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 105
+
+{"jsonrpc":"2.0","method":"hostServicesStarted","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.VisualStudio.TestWindow.VSCode.Service.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr read: Content-Length: 1018
+
+{"jsonrpc":"2.0","id":5,"method":"startService","params":[{"name":"Microsoft.CodeCoverage.VSCode.CollectionService","host":"dotnet","hostId":"C94B8CFE-E3FD-4BAF-A941-2866DBB566FE","serviceBaseDirectory":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64","entryPoint":{"assemblyPath":"/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll","fullClassName":"Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory"}},{"ActivationArguments":{"__servicehub__ServiceHubRemoteServiceBrokerPipeName":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/2e6412c359","__servicehub__RequestedServiceVersion":"1.0"},"ClientCredentials":{},"ClientCulture":"en-GB","ClientUICulture":"en-GB"}]}
+11/12/2024 18:20:10 India Standard Time : Information : CLR host received start request for service 'Microsoft.CodeCoverage.VSCode.CollectionService'
+11/12/2024 18:20:10 India Standard Time : Information : Loading service module assembly '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64/Microsoft.CodeCoverage.VSCode.Services.dll' from '/Users/shashibhushankumar/.vscode/extensions/ms-dotnettools.csdevkit-1.11.14-darwin-arm64/components/vs-code-coverage/platforms/darwin-arm64/node_modules/@microsoft/coverage-services.darwin-arm64'
+11/12/2024 18:20:10 India Standard Time : Information : Starting service module 'Microsoft.CodeCoverage.VSCode.CollectionService'. Class: Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : Started service 'Microsoft.CodeCoverage.VSCode.CollectionService'. Pipe name: /Users/shashibhushankumar/.ServiceHub/2e9d262ac6/b78a98f560, Supported Version: 
+11/12/2024 18:20:10 India Standard Time : Information : hubHostClr write: Content-Length: 95
+
+{"jsonrpc":"2.0","id":5,"result":"/Users/shashibhushankumar/.ServiceHub/2e9d262ac6/b78a98f560"}
+11/12/2024 18:20:10 India Standard Time : Information : A new client connected to CLR service module 'Microsoft.CodeCoverage.VSCode.CollectionService'
+11/12/2024 18:20:10 India Standard Time : Information : Found FactoryVersion=Version2 for service : Microsoft.CodeCoverage.VSCode.CollectionService.
+11/12/2024 18:20:10 India Standard Time : Information : Service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements IServiceHubServiceFactory. Creating factory instance and caching it.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=1.0.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=0.1.
+11/12/2024 18:20:10 India Standard Time : Information : Creating service Microsoft.VisualStudio.CoverageServices.ReportServiceFactory from factory with FactoryVersion=Version2 and ClientRequestedVersion=1.0.
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Setting up RPC connection for service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' from factory
+11/12/2024 18:20:10 India Standard Time : Information : Completed RPC connection setup for service 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' from factory
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr write: Content-Length: 103
+
+{"jsonrpc":"2.0","method":"hostServicesEnded","params":["dotnet$C94B8CFE-E3FD-4BAF-A941-2866DBB566FE"]}
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements Microsoft.VisualStudio.Threading.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.TestWindow.VSCode.Service.TestWindowVSCodeServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.CollectionServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements System.IAsyncDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : Checking if 'Microsoft.VisualStudio.CoverageServices.ReportServiceFactory' implements System.IDisposable.
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr read: Content-Length: 46
+
+{"jsonrpc":"2.0","method":"exit","params":[3]}
+11/12/2024 18:20:14 India Standard Time : Information : Exit command received with reason 'ForcedControllerShutdown'. Exiting CLR host
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr JSON RPC has been disposed
+11/12/2024 18:20:14 India Standard Time : Information : hubHostClr read: end of stream
